@@ -31,3 +31,16 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+/mqtt-db-sync.json
+.idea/.name
+.idea/compiler.xml
+.idea/copyright/
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/mqtt-db-sync.iml
+.idea/uiDesigner.xml
+.idea/workspace.xml
+mqtt-db-sync.json
+package.json
+/.idea/
